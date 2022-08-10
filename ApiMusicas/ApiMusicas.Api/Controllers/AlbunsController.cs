@@ -3,7 +3,7 @@ using ApiMusicas.Api.Models;
 using ApiMusicas.Api.Repositorios;
 using Microsoft.AspNetCore.Mvc;
 
-
+namespace ApiMusicas.Api.Controllers;
 
 [ApiController]
 [Route("api/albuns")]
